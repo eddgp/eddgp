@@ -3,16 +3,15 @@
 
 # Eduardo Gabriel Pires
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+## Hi everyone 👋
+A programming and design lover, using my curiosity to learn more and solve problems.
+Tryna be a Front-end Dev :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ :telescope:  &nbsp; Searching for jobs
+ <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React and Design projects
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js & React Native
+ <br/> 💬  &nbsp; About: Tech, Food, Series and Games Lover, like CS:GO, Dota2 and Badorants
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-gabriel-pires-542199110/)](https://www.linkedin.com/in/eduardo-gabriel-pires-542199110/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-eddgbp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eddgbp@gmail.com)](mailto:eddgbp@gmail.com)
 
