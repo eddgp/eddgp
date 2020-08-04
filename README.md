@@ -14,4 +14,4 @@ Tryna be a Front-end Dev :computer:
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-EduardoPires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-gabriel-pires-542199110/)](https://www.linkedin.com/in/eduardo-gabriel-pires-542199110/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-eddgbp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eddgbp@gmail.com)](mailto:eddgbp@gmail.com)
-<br/>a special Thanks to the RocketSeat Masters! :beers:
+<br/>a special Thanks to the Rocketseat Masters! :beers:
