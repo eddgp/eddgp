@@ -11,7 +11,7 @@ Tryna be a Front-end Dev :computer:
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React and Design projects
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js & React Native
  <br/> 💬  &nbsp; About: Tech, Food, Series and Games Lover, like CS:GO, Dota2 and Badorants
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-gabriel-pires-542199110/)](https://www.linkedin.com/in/eduardo-gabriel-pires-542199110/) 
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-EduardoPires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-gabriel-pires-542199110/)](https://www.linkedin.com/in/eduardo-gabriel-pires-542199110/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-eddgbp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eddgbp@gmail.com)](mailto:eddgbp@gmail.com)
-
+<br/>a special Thanks to RocketSeat Masters! :beers:
